@@ -1,2 +1,2 @@
 # SDEV-140-Final-Project
-Stat tracker for Highschool Sports
+Stat tracker for High School Sports
